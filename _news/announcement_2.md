@@ -1,8 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2026-03-01 00:00:00-0400
-inline: false
+date: 2026-03-01
+inline: true
 related_posts: false
 ---
 
