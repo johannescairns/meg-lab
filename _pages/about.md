@@ -6,7 +6,7 @@ nav: false
 nav_order: 1
 ---
 
-[Department of Experimental Medical Science, Lund University](https://www.medicine.lu.se/faculty-medicine-lund-university/departments/department-experimental-medical-science)(...) · [SciLifeLab](https://www.scilifelab.se/researchers/johannes-cairns/)(...) · [TCSMT, University of Turku](https://www.utu.fi/en/research/research-collegia/tcsmt)
+[Department of Experimental Medical Science, Lund University](https://www.medicine.lu.se/faculty-medicine-lund-university/departments/department-experimental-medical-science) - [SciLifeLab](https://www.scilifelab.se/researchers/johannes-cairns/) - [TCSMT, University of Turku](https://www.utu.fi/en/research/research-collegia/tcsmt)
 
 The Microbial Evolutionary Genetics (MEG) Lab develops predictive, quantitative understanding of how microbial populations and communities evolve, with a particular focus on antimicrobial resistance, community resilience, and infection dynamics. We investigate when resistance evolution and treatment outcomes are predictable, and when they depend critically on ecological interactions among coexisting microbes.
 
