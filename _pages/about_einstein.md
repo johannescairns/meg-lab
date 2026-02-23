@@ -10,4 +10,4 @@ His research develops predictive, quantitative understanding of microbial evolut
 
 The lab combines wet-lab experimentation with computational modelling and close collaboration across microbiology, evolutionary biology, ecology, and data science.
 
-If you are interested in joining the group, please get in touch by email. See Lund University or University of Turku website for contact information.
+If you are interested in joining the group, please get in touch by email at johannes.cairns at med.lu.se
