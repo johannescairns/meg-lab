@@ -1,8 +1,7 @@
 ---
+**Principal Investigator**
 
 **Johannes Cairns, PhD**
-
-**Principal Investigator**
 
 Johannes Cairns is Principal Investigator of the Microbial Evolutionary Genetics (MEG) Lab, operating between Lund University and the University of Turku. He is Assistant Professor & DDLS Fellow at [Lund University](https://www.wcmm.lu.se/johannes-cairns) and Collegium researcher & Docent (Adjunct Professor) in Evolutionary Genetics and Bioinformatics at the [University of Turku](https://www.utu.fi/en/people/johannes-cairns), with affiliations in interdisciplinary antimicrobial resistance and data-driven life science environments in Sweden and Finland.
 
