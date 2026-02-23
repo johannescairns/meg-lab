@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/meg-lab/";
     },
-  },{id: "nav-about",
-          title: "about",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/meg-lab/";
-          },
-        },{id: "nav-people",
+  },{id: "nav-people",
           title: "people",
           description: "members of the lab",
           section: "Navigation",
