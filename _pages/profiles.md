@@ -19,7 +19,7 @@ profiles:
     content: about_Bisch.md
     image_circular: false # crops the image to make it circular
     more_info: #
-      - align: right
+  - align: right
     image: prof_pic_Aapal.jpg
     content: about_Aapal.md
     image_circular: false # crops the image to make it circular
