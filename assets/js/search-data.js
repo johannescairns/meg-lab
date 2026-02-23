@@ -397,12 +397,10 @@ ninja.data = [{
           section: "News",},{id: "news-pi-johannes-cairns-was-appointed-collegium-researcher-at-the-turku-collegium-for-science-medicine-and-technology",
           title: 'PI Johannes Cairns was appointed Collegium Researcher at the Turku Collegium for Science,...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-pi-johannes-cairns-was-appointed-assistant-professor-ddls-fellow-at-the-faculty-of-medicine-lund-university-and-scilifelab-here-is-his-interview-on-the-appointment-at-lund",
+          title: 'PI Johannes Cairns was appointed Assistant Professor (DDLS Fellow) at the Faculty of...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/meg-lab/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
