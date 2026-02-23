@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/meg-lab/books/the_godfather/";
-            },},{id: "news-pi-johannes-cairns-was-appointed-collegium-researcher-at-the-turku-collegium-for-science-medicine-and-technology",
-          title: 'PI Johannes Cairns was appointed Collegium Researcher at the Turku Collegium for Science,...',
+            },},{id: "news-johannes-was-appointed-collegium-researcher-at-the-turku-collegium-for-science-medicine-and-technology",
+          title: 'Johannes was appointed Collegium Researcher at the Turku Collegium for Science, Medicine and...',
           description: "",
           section: "News",},{id: "news-pi-johannes-cairns-was-appointed-assistant-professor-ddls-fellow-at-the-faculty-of-medicine-lund-university-and-scilifelab-here-is-his-interview-on-the-appointment-at-lund",
           title: 'PI Johannes Cairns was appointed Assistant Professor (DDLS Fellow) at the Faculty of...',
