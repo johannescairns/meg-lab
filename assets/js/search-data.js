@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/meg-lab/books/the_godfather/";
-            },},{id: "news-johannes-was-appointed-collegium-researcher-at-the-turku-collegium-for-science-medicine-and-technology",
+            },},{id: "news-inga-katariina-received-a-doctoral-research-grant-from-the-finnish-cultural-foundation-congratulations",
+          title: 'Inga-Katariina received a doctoral research grant from the Finnish Cultural Foundation. Congratulations!',
+          description: "",
+          section: "News",},{id: "news-johannes-was-appointed-collegium-researcher-at-the-turku-collegium-for-science-medicine-and-technology",
           title: 'Johannes was appointed Collegium Researcher at the Turku Collegium for Science, Medicine and...',
           description: "",
           section: "News",},{id: "news-johannes-was-appointed-assistant-professor-ddls-fellow-at-the-faculty-of-medicine-lund-university-and-scilifelab-here-is-his-interview-on-the-appointment-at-lund",
