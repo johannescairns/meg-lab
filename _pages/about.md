@@ -4,6 +4,12 @@ title: about
 permalink: /
 nav: false
 nav_order: 1
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+
+announcements:
+  enabled: true # includes a list of news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
 [Department of Experimental Medical Science, Lund University](https://www.medicine.lu.se/faculty-medicine-lund-university/departments/department-experimental-medical-science) - [SciLifeLab](https://www.scilifelab.se/researchers/johannes-cairns/) - [TCSMT, University of Turku](https://www.utu.fi/en/research/research-collegia/tcsmt)
