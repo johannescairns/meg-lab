@@ -1,10 +1,13 @@
 ---
-nav: false
-nav_order: 1
----
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Johannes Cairns, PhD**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Principal Investigator**
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Johannes Cairns is Principal Investigator of the Microbial Evolutionary Genetics (MEG) Lab, operating between Lund University and the University of Turku. He is a Assistant Professor & DDLS Fellow at Lund University and Collegium researcher & Docent (Adjunct Professor) in Evolutionary Genetics and Bioinformatics at the University of Turku, with affiliations in interdisciplinary antimicrobial resistance and data-driven life science environments in Sweden and Finland.
+
+His research develops predictive, quantitative understanding of microbial evolution, with a focus on antimicrobial resistance, community resilience, and infection dynamics. The group integrates experimental evolution, synthetic and clinically inspired microbial communities, genetic engineering, genomics, and bioinformatics to determine when resistance evolution and treatment outcomes are predictable—and when they depend on ecological interactions among coexisting microbes.
+
+The lab combines wet-lab experimentation with computational modelling and close collaboration across microbiology, evolutionary biology, ecology, and data science.
+
+If you are interested in joining the group, please get in touch by email. See University website for contact information.
