@@ -25,6 +25,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
+    image: Adamaris_photo.JPG
+    content: about_Muniz.md
+    image_circular: false # crops the image to make it circular
+    more_info: #
+    - align: right
     image: prof_pic_Rantak.jpg
     content: about_Rantak.md
     image_circular: false # crops the image to make it circular
