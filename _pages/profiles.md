@@ -15,21 +15,26 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
+    image: Karina.jpg
+    content: about_Malmros.md
+    image_circular: false # crops the image to make it circular
+    more_info: #
+  - align: right
     image: prof_pic_Bisch.jpg
     content: about_Bisch.md
     image_circular: false # crops the image to make it circular
     more_info: #
-  - align: right
+  - align: left
     image: prof_pic_Aapal.jpg
     content: about_Aapal.md
     image_circular: false # crops the image to make it circular
     more_info: #
-  - align: left
+  - align: right
     image: Adamaris_photo.JPG
     content: about_Muniz.md
     image_circular: false # crops the image to make it circular
     more_info: #
-  - align: right
+  - align: left
     image: prof_pic_Rantak.jpg
     content: about_Rantak.md
     image_circular: false # crops the image to make it circular
