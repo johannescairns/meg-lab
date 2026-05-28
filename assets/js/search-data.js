@@ -415,7 +415,7 @@ ninja.data = [{
           section: "News",},{id: "news-leo-is-joining-us-for-a-research-group-internship-to-setup-a-polymicrobial-urinary-tract-infection-model-system-johannes-is-attending-the-ddls-fellows-retreat-in-epidemiology-and-infection-biology-in-norrköping-on-19-20-may-and-presenting-a-flash-talk-in-the-pals-conference-2026-held-20-22-may-in-kolmården-a-new-pre-print-is-also-out-on-how-eco-evolutionary-dynamics-and-antibiotic-detoxification-interactively-determine-community-antibiotic-response",
           title: 'Leo is joining us for a research group internship to setup a polymicrobial...',
           description: "",
-          section: "News",},{id: "news-new-pnas-study-we-collaborated-on-used-a-long-term-synthetic-microbial-community-experiment-to-show-how-evolution-can-drive-major-shifts-in-microbial-community-structure-over-time",
+          section: "News",},{id: "news-new-pnas-study-we-collaborated-on-used-a-long-term-synthetic-microbial-community-experiment-to-show-that-evolution-can-drive-major-shifts-in-microbial-community-structure-over-time",
           title: 'New PNAS study we collaborated on used a long-term synthetic microbial community experiment...',
           description: "",
           section: "News",},{id: "projects-project-1",
