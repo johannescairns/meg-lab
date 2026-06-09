@@ -419,7 +419,7 @@ ninja.data = [{
           section: "News",},{id: "news-johannes-is-speaking-at-the-infect-lu-day-on-7-april-in-lund-and-at-the-sfm-days-on-14-april-in-gothenburg",
           title: 'Johannes is speaking at the Infect@LU Day on 7 April in Lund and...',
           description: "",
-          section: "News",},{id: "news-leo-is-joining-us-for-a-research-group-internship-to-setup-a-polymicrobial-urinary-tract-infection-model-system-johannes-is-attending-the-ddls-fellows-retreat-in-epidemiology-and-infection-biology-in-norrköping-on-19-20-may-and-presenting-a-flash-talk-in-the-pals-conference-2026-held-20-22-may-in-kolmården-a-new-pre-print-is-also-out-on-how-eco-evolutionary-dynamics-and-antibiotic-detoxification-interactively-determine-community-antibiotic-response",
+          section: "News",},{id: "news-leo-is-joining-us-for-a-research-group-internship-to-setup-a-polymicrobial-urinary-tract-infection-model-system-welcome-johannes-is-attending-the-ddls-fellows-retreat-in-epidemiology-and-infection-biology-in-norrköping-on-19-20-may-and-presenting-a-flash-talk-in-the-pals-conference-2026-held-20-22-may-in-kolmården-a-new-pre-print-is-out-on-how-eco-evolutionary-dynamics-and-antibiotic-detoxification-interactively-determine-community-antibiotic-response",
           title: 'Leo is joining us for a research group internship to setup a polymicrobial...',
           description: "",
           section: "News",},{id: "news-new-pnas-study-out-we-used-a-long-term-synthetic-microbial-community-experiment-to-show-that-evolution-can-drive-major-shifts-in-microbial-community-structure-over-time",
