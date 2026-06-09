@@ -2,8 +2,7 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter lab-navbar-brand" href="{{ '/' | relative_url }}">
+      <a class="navbar-brand title font-weight-lighter lab-navbar-brand" href="{{ '/' | relative_url }}">
   <img
     src="{{ '/assets/img/Lab_logo_gradient.svg' | relative_url }}"
     class="lab-navbar-logo"
@@ -21,10 +20,6 @@
     {% endif %}
   </span>
 </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% social_links %}</div>
-      {% endif %}
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
