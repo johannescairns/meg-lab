@@ -428,7 +428,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-isme-communications-study-out-we-found-that-total-carbon-availability-rather-than-resource-complexity-is-the-primary-factor-shaping-community-state-shifts-in-a-synthetic-microbial-community",
           title: 'New ISME Communications study out: we found that total carbon availability, rather than...',
           description: "",
-          section: "News",},{id: "news-new-funding-our-lab-has-received-sek-1-000-000-from-the-crafoord-foundation-for-the-project-compesbl-which-investigates-competition-dynamics-and-horizontal-transfer-of-antibiotic-resistance-between-esbl-producing-and-commensal-escherichia-coli",
+          section: "News",},{id: "news-new-funding-our-lab-has-received-sek-1-000-000-from-the-crafoord-foundation-for-the-project-compesbl-which-investigates-competitive-dynamics-and-horizontal-transfer-of-antibiotic-resistance-plasmids-between-esbl-producing-and-commensal-escherichia-coli",
           title: 'New funding: Our lab has received SEK 1,000,000 from the Crafoord Foundation for...',
           description: "",
           section: "News",},{id: "projects-project-1",
