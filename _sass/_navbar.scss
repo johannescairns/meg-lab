@@ -188,3 +188,26 @@
     color: var(--global-hover-color);
   }
 }
+
+.lab-navbar-brand {
+  display: inline-flex;
+  align-items: center;
+}
+
+.lab-navbar-logo {
+  height: 2.4rem;
+  width: auto;
+  margin-right: 0.6rem;
+  border-radius: 0.35rem;
+}
+
+.lab-navbar-title {
+  white-space: nowrap;
+}
+
+@media (max-width: 575px) {
+  .lab-navbar-logo {
+    height: 2rem;
+    margin-right: 0.45rem;
+  }
+}
