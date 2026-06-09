@@ -211,3 +211,19 @@
     margin-right: 0.45rem;
   }
 }
+
+body .navbar .lab-navbar-brand {
+  display: inline-flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  align-items: center;
+}
+
+body .navbar .lab-navbar-logo {
+  display: inline-block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  height: 2.4rem;
+  width: auto;
+  margin-right: 0.6rem;
+}
