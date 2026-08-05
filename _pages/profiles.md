@@ -35,11 +35,16 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
+    image: Xhilda_Meta.jpg
+    content: about_Meta.md
+    image_circular: false # crops the image to make it circular
+    more_info: #
+  - align: right
     image: Leo_Zhang_v2.jpg
     content: Zhang.md
     image_circular: false # crops the image to make it circular
     more_info: #
-  - align: right
+  - align: left
     image: prof_pic_Bisch.jpg
     content: about_Bisch.md
     image_circular: false # crops the image to make it circular
