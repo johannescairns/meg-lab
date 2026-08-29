@@ -431,7 +431,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-funding-our-lab-has-received-sek-1-000-000-from-the-crafoord-foundation-for-the-project-compesbl-which-investigates-competitive-dynamics-and-horizontal-transfer-of-antibiotic-resistance-plasmids-between-esbl-producing-and-commensal-escherichia-coli",
           title: 'New funding: Our lab has received SEK 1,000,000 from the Crafoord Foundation for...',
           description: "",
-          section: "News",},{id: "news-welcome-xhilda-she-joins-the-meg-lab-as-a-project-assistant-working-on-microbial-evolution-antibiotic-resistance-and-developing-an-in-vitro-model-for-polymicrobial-uurinary-tract-infections",
+          section: "News",},{id: "news-welcome-xhilda-she-joins-the-meg-lab-as-a-project-assistant-working-on-microbial-evolution-antibiotic-resistance-and-developing-an-in-vitro-model-for-polymicrobial-urinary-tract-infections",
           title: 'Welcome, Xhilda! She joins the MEG Lab as a Project Assistant, working on...',
           description: "",
           section: "News",},{id: "projects-project-1",
