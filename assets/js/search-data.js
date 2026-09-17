@@ -438,7 +438,7 @@ ninja.data = [{
           title: 'New preprint! In our new study, we investigate how far microbial monocultures can...',
           description: "",
           section: "News",},{id: "news-our-new-paper-eco-evolutionary-dynamics-and-environmental-detoxification-jointly-shape-bacterial-community-response-to-antibiotic-perturbation-is-now-available-as-an-advance-article-in-the-isme-journal-we-show-how-resistance-evolution-and-antibiotic-detoxification-interact-to-shape-bacterial-community-responses-to-repeated-antibiotic-disturbance",
-          title: 'Our new paper, “Eco-evolutionary dynamics and environmental detoxification jointly shape bacterial community response...',
+          title: 'Our new paper, Eco-evolutionary dynamics and environmental detoxification jointly shape bacterial community response...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
