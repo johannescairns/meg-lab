@@ -1,4 +1,4 @@
-**PhD researcher**
+**PhD Researcher**
 
 **Inga-Katariina Aapalampi, MSc**
 
