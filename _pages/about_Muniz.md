@@ -1,4 +1,4 @@
-**PhD researcher**
+**PhD Researcher**
 
 **Adamaris Muñiz Tirado, MSc**
 
