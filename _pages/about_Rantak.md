@@ -1,4 +1,4 @@
-**MSc researcher**
+**MSc Researcher**
 
 **Aava Rantakokko, BSc**
 
