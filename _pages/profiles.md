@@ -1,4 +1,3 @@
-
 ---
 layout: profiles
 permalink: /people/
@@ -8,63 +7,65 @@ nav: true
 nav_order: 2
 
 profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic_Cairns.jpg
     content: about_einstein.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: left
     image: Karina.jpg
     content: about_Malmros.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: right
     image: Victor.jpg
     content: about_Victor.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: left
     image: prof_pic_Aapal.jpg
     content: about_Aapal.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: right
     image: Adamaris_photo.JPG
     content: about_Muniz.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: left
     image: Lamia.jpg
     content: about_Lamia.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: right
     image: prof_pic_Rantak.jpg
     content: about_Rantak.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: left
     image: prof_pic_Bisch.jpg
     content: about_Bisch.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: right
     image: Xhilda_Meta.jpg
     content: about_Meta.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 
   - align: left
     image: Leo_Zhang_v2.jpg
     content: Zhang.md
-    image_circular: false
+    image_circular: false # crops the image to make it circular
     more_info: #
 ---
